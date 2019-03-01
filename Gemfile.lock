@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    phone_info (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.11.3)
+    rake (12.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  minitest (~> 5.0)
+  phone_info!
+  rake
+
+BUNDLED WITH
+   1.17.2
